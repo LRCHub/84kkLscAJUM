@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "KILL LOVE",
+  "base_artist": "ano",
+  "createdAt": "2025-12-27T14:48:00.610837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kill Love",
+      "artist": "Roland Orzabal",
+      "has_synced": true,
+      "path": "select/01_Kill_Love_Roland_Orzabal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DYKL (Don't You Kill Love)",
+      "artist": "Ziggy Marley",
+      "has_synced": true,
+      "path": "select/02_DYKL_(Don't_You_Kill_Love)_Ziggy_Marley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kill Love",
+      "artist": "Agata Kristi",
+      "has_synced": true,
+      "path": "select/03_Kill_Love_Agata_Kristi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Five Out of Five Kids Who Kill Love Slayer",
+      "artist": "We Are the Union",
+      "has_synced": true,
+      "path": "select/04_Five_Out_of_Five_Kids_Who_Kill_Love_Slayer_We_Are_the_Union.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kill Love",
+      "artist": "OBK",
+      "has_synced": false,
+      "path": "select/05_Kill_Love_OBK.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kill Love",
+      "artist": "Agatha Christie",
+      "has_synced": true,
+      "path": "select/06_Kill_Love_Agatha_Christie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't You Kill Love",
+      "artist": "Ziggy Marley",
+      "has_synced": true,
+      "path": "select/07_Don't_You_Kill_Love_Ziggy_Marley.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "11 - Don't you kill love",
+      "artist": "Ziggy Marley",
+      "has_synced": true,
+      "path": "select/08_11_-_Don't_you_kill_love_Ziggy_Marley.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "D.Y.K.L. (Don't You Kill Love)",
+      "artist": "Ziggy Marley",
+      "has_synced": true,
+      "path": "select/09_D.Y.K.L._(Don't_You_Kill_Love)_Ziggy_Marley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kill Love",
+      "artist": "Sorta",
+      "has_synced": true,
+      "path": "select/10_Kill_Love_Sorta.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KILL LOVE",
+      "artist": "ano",
+      "has_synced": true,
+      "path": "select/11_KILL_LOVE_ano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dkyl (Don't You Kill Love)",
+      "artist": "Ziggy Marley",
+      "has_synced": true,
+      "path": "select/12_Dkyl_(Don't_You_Kill_Love)_Ziggy_Marley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KILL LOVE",
+      "artist": "ano",
+      "has_synced": false,
+      "path": "select/pl_01_KILL_LOVE_ano.txt"
+    }
+  ]
+}
